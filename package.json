@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shawnpdoherty/blueocean/issues"
   },
-  "homepage": "https://github.com/shawnpdoherty/blueocean#readme"
+  "homepage": "https://github.com/shawnpdoherty/blueocean#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
