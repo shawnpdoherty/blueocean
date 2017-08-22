@@ -38,5 +38,5 @@ function initializeClock(id, endtime) {
 }
 
 // var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
-var deadline = 'March 24 2018';
+var deadline = 'March 24 2018 19:00:00 GMT-0500';
 initializeClock('clockdiv', deadline);
