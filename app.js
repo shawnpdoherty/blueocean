@@ -9,6 +9,6 @@ app.get('/', function (req, res) {
 });
 
 // app.listen(8080, function(){
-app.listen(process.env.PORT, process.env.IP, function(){
+app.listen(port, function(){
     console.log("Countdown started")
 });
